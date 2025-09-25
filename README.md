@@ -11,10 +11,7 @@ The script also formats the look-up table and adds a **file header** containing 
 
 ## Requirements
 - Python 3.7+
-- `numpy`, `pandas` (if used by your script)
-
-Install dependencies (example):
-    pip install numpy pandas
+- `pandas`
 
 ---
 
