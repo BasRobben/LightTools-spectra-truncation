@@ -33,4 +33,4 @@ An example absorption and emission spectrum is included for the organic luminoph
 ---
 
 ## License
-MIT License (or choose your preferred license)
+MIT License
